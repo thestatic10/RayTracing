@@ -1,0 +1,3 @@
+/Users/harshit_nagpal/new_year_projects/RayTracing_in_One_Weekend/build/CMakeFiles/main.dir
+/Users/harshit_nagpal/new_year_projects/RayTracing_in_One_Weekend/build/CMakeFiles/edit_cache.dir
+/Users/harshit_nagpal/new_year_projects/RayTracing_in_One_Weekend/build/CMakeFiles/rebuild_cache.dir
